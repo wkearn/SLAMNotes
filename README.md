@@ -21,3 +21,4 @@ This will start the Pluto server and open the welcome page in your web browser. 
 
 - [Chapter 1: Landmark location](notebooks/Chapter1.jl)
 - [Chapter 2: A moving robot](notebooks/Chapter2.jl)
+- [Chapter 3: Smooth moves](notebooks/Chapter3.jl)
